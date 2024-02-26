@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "workbench.iconTheme": "vscode-icons",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
